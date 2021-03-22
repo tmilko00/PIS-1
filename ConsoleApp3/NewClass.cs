@@ -6,5 +6,9 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+        static void MyMethod()
+        {
+            // code to be executed
+        }
     }
 }
